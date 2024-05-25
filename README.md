@@ -1,5 +1,5 @@
 ## Hi there 👋
-![SPR Design Banner Image]https://github.com/SPRDesign/SPRDesign/blob/main/banner.png()
+![SPR Design Banner Image](https://github.com/SPRDesign/SPRDesign/blob/main/banner.png)
 
 
 
