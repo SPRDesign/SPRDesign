@@ -5,7 +5,7 @@
 <p>I'm a Fullstack Developer and UX/UI Designer blending artistic flair with technical prowess. With a background in 3D fashion design, I fuse aesthetics with functionality in digital realms.</p>
 
 💻 Visit my [Portfolio](https://sprdesign.netlify.app/) for more details about me.
-<!--Languages and Tools Section-->       
+<!--Skills-->       
 <h2>Skills</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,astro,nodejs,express,py,figma,ai,ap,ad&perline=14"  />
