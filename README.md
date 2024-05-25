@@ -1,16 +1,16 @@
 ## Hi there, I'm Sara aka SPR Design 👋
 ![Banner](https://github.com/SPRDesign/SPRDesign/blob/main/banner2.png)
 
-<!--Intro-->               
+              
 <p>I'm a Fullstack Developer and UX/UI Designer blending artistic flair with technical prowess. With a background in 3D fashion design, I fuse aesthetics with functionality in digital realms.</p>
 
 💻 Visit my [Portfolio](https://sprdesign.netlify.app/) for more details about me.
-<!--Skills-->       
+      
 <h2>Skills</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,astro,nodejs,express,py,figma,ai,ap,ad&perline=14"  />
 </p>
-<!--Contact Section--> 
+
 <h2>Connect with me 🤝 </h2>
 <div>
  <a href="https://www.linkedin.com/in/sarapages/" target="_blank">
@@ -22,7 +22,7 @@
 </a>
 </div>
 <br/>
-Credit: [SPR Design](https://github.com/SPRDesign)
+Credit: ![SPR Design](https://github.com/SPRDesign)
 
 Last edited on: 25/05/2024
 
