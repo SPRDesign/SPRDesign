@@ -22,7 +22,8 @@
 </a>
 </div>
 <br/>
-Credit: ![SPR Design](https://github.com/SPRDesign)
+
+Credit: [SPR Design](https://github.com/SPRDesign)
 
 Last edited on: 25/05/2024
 
