@@ -1,6 +1,5 @@
 ## Hi there, I'm Sara aka SPR Design 👋
 ![Banner](https://github.com/SPRDesign/SPRDesign/blob/main/banner2.png)
-<img src="https://github.com/SPRDesign/SPRDesign/blob/main/banner2.png" alt="Banner" width="600"/>
               
 <p>I'm a Fullstack Developer and UX/UI Designer blending artistic flair with technical prowess. With a background in 3D fashion design, I fuse aesthetics with functionality in digital realms.</p>
 
