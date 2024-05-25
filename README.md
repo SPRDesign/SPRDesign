@@ -6,20 +6,14 @@
 
 💻 Visit my [Portfolio](https://github.com/SPRDesign/SPRDesign-Main-Portfolio) for more details about me.
 
----
 <br />
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,astro,nodejs,express,py,figma,ai,ap,ad&perline=10"  />
 </p>
 <br />
-
-
-
 <!--Contact Section--> 
-
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/sarapages/" target="_blank">
@@ -29,15 +23,8 @@
 <a href="mailto:sprdesign3d@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=sprdesign3d@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-
-
-
-
 </div>
-
-
 ------
-
 Credit: [SPR Design](https://github.com/SPRDesign)
 Last edited: 25/05/2024
 
