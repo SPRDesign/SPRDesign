@@ -23,7 +23,8 @@
 </div>
 
 Credit: [SPR Design](https://github.com/SPRDesign)
-Last edited: 25/05/2024
+
+Last edited on: 25/05/2024
 
 
 
