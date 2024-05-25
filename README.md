@@ -1,5 +1,5 @@
 ## Hi there 👋
-[](https://github.com/SPRDesign/SPRDesign/blob/main/banner2.png)
+![Banner](https://github.com/SPRDesign/SPRDesign/blob/main/banner2.png)
 
 
 
