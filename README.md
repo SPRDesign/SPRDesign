@@ -4,7 +4,7 @@
 <!--Intro-->               
 <p>I'm a Fullstack Developer and UX/UI Designer blending artistic flair with technical prowess. With a background in 3D fashion design, I fuse aesthetics with functionality in digital realms.</p>
 
-💻 Visit my [Portfolio](https://github.com/SPRDesign/SPRDesign-Main-Portfolio) for more details about me.
+💻 Visit my [Portfolio](https://sprdesign.netlify.app/) for more details about me.
 
 <br />
 <!--Languages and Tools Section-->       
